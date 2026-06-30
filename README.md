@@ -2,6 +2,9 @@
 
 A data science project that analyzes 150+ years of international football results and builds a prediction model for the FIFA World Cup 2026, combining Elo ratings, Poisson goal-expectancy modeling, and Monte Carlo tournament simulation.
 
+<img width="1545" height="1067" alt="image" src="https://github.com/user-attachments/assets/b6deea5e-f04d-42a8-a0af-634be4430281" />
+
+
 ## Overview
 
 This repo does three things:
